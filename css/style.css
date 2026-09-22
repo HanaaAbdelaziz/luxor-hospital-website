@@ -33,7 +33,7 @@ a{
 .main-header{
     width: 100%;
     height: 60px;
-    background-color:rgb(34, 186, 247);
+    background-color:#1596C7;
     text-align: center;
     padding: 15px ;
     position: fixed;
@@ -208,11 +208,11 @@ a{
     margin: 0 8px;
 }
 .btn1{
-    background-color: rgb(34, 186, 247);
+    background-color: #1596C7;
     color: white;
 }
 .btn1:hover{
-    background-color: rgba(34, 186, 247, 0.7);
+    background-color: rgba(21, 150, 199, 0.6);
 }
 .btn2{
     background-color: rgba(255, 255, 255, 0.15);
@@ -317,7 +317,7 @@ a{
     font-size: 15px;
     font-weight: 700;
     padding: 8px 5px 15px 5px;
-    color: rgb(34, 186, 247);
+    color: #1596C7;
     letter-spacing: 0.5px;
     display: inline-block;
 }
@@ -343,7 +343,7 @@ a{
     color: rgb(255, 255, 255);
 }
 .core-item:hover .core-item-p,.services-item:hover .services-p {
-    color: rgb(2, 2, 90);
+    color: rgb(21, 21, 73);
 }
 /*************************DEPARTMENT SECTION************************************/
 .container-department,
@@ -695,7 +695,7 @@ a{
 }
 .packages-item-list li::before{
     content: "✓";
-    color: rgb(34, 186, 247);
+    color: #1596C7;
     position: absolute;
     left: 0;
 }
@@ -878,7 +878,7 @@ a{
    font-weight: 700;
 }
 .news-icons a{
-    color: rgb(34, 186, 247);
+    color: #1596C7;
 }
 .news-icons span{
     padding-right: 7px;
@@ -902,13 +902,13 @@ a{
     font-size: 17px;
     font-weight: 900;
     padding: 0px 5px 15px 5px;
-    color: rgb(34, 186, 247);
+    color: #1596C7;
 }
 .news-item:hover .news-info-title{
     color:#ffff;
 }
 .news-item:hover .news-info-p{
-    color:rgb(6, 6, 87) ;
+    color: rgb(21, 21, 73);
 }
 .news-item::before{
     content: "";
@@ -927,7 +927,7 @@ a{
     height: 100%;}
 
 .news-icons.i3:hover{
-    background-color: #4a4aff;
+    background-color: rgb(6, 6, 87);
 }
 /*******************END SECTION********************/
 .container-footer{
@@ -958,7 +958,7 @@ padding: 15px;
     width: 50px;
     height: 50px;
     border-radius: 50%;
-    background-color:  rgb(34, 186, 247);
+    background-color:  #1596C7;
     text-align: center;  
 }
 .footer-icons a i{
@@ -993,6 +993,6 @@ padding: 15px;
     padding: 10px;
 }
 .footer-contact i{
-    color: rgb(34, 186, 247);
+    color: #1596C7;
 }
 /**********END*********/
