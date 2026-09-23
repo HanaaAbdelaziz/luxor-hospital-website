@@ -29,11 +29,12 @@ a{
     text-align: center;
     background-color: rgba(0, 0, 0, 0.6);
 }
+
 /*****************************overlay*************************************/
 .main-header{
     width: 100%;
     height: 60px;
-    background-color:#1596C7;
+    background-color:rgb(72, 174, 214);
     text-align: center;
     padding: 15px ;
     position: fixed;
@@ -60,7 +61,7 @@ a{
 .main-search{
     width: 200px;
     height: 35px;
-    padding: 10px 10px 10px 35px;
+    padding: 10px ;
     border-radius: 20px;
     border: 1px solid rgba(6, 6, 87, 0.3);
     font-size: 14px;
@@ -208,11 +209,11 @@ a{
     margin: 0 8px;
 }
 .btn1{
-    background-color: #1596C7;
+    background-color: rgb(71, 164, 201);
     color: white;
 }
 .btn1:hover{
-    background-color: rgba(21, 150, 199, 0.6);
+    background-color: rgba(71, 164, 201, 0.6);
 }
 .btn2{
     background-color: rgba(255, 255, 255, 0.15);
@@ -317,7 +318,7 @@ a{
     font-size: 15px;
     font-weight: 700;
     padding: 8px 5px 15px 5px;
-    color: #1596C7;
+    color: rgb(71, 164, 201);
     letter-spacing: 0.5px;
     display: inline-block;
 }
@@ -695,7 +696,7 @@ a{
 }
 .packages-item-list li::before{
     content: "✓";
-    color: #1596C7;
+    color: rgb(71, 164, 201);
     position: absolute;
     left: 0;
 }
@@ -878,7 +879,7 @@ a{
    font-weight: 700;
 }
 .news-icons a{
-    color: #1596C7;
+    color: rgb(71, 164, 201);
 }
 .news-icons span{
     padding-right: 7px;
@@ -902,7 +903,7 @@ a{
     font-size: 17px;
     font-weight: 900;
     padding: 0px 5px 15px 5px;
-    color: #1596C7;
+    color: rgb(71, 164, 201);
 }
 .news-item:hover .news-info-title{
     color:#ffff;
@@ -993,6 +994,6 @@ padding: 15px;
     padding: 10px;
 }
 .footer-contact i{
-    color: #1596C7;
+    color: rgb(71, 164, 201)
 }
 /**********END*********/
